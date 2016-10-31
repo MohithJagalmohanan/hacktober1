@@ -1,2 +1,2 @@
-# hacktober3
+# hacktober2
 Mohith Jagalmohanan
