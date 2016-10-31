@@ -1,2 +1,2 @@
 # hacktober1
-Muhamed Irfan Vengasseri
+Mohith Jagalmohanan
